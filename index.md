@@ -23,3 +23,7 @@ layout: default
 
 [Google Colaboratory Notebook - Module 4](https://colab.research.google.com/drive/11S4bwdynQqx1EB-AX8L87Ndh4n-jBGWb?usp=sharing)
 
+# ASCII Tables, FITS files, and Catalog files:
+```In order to complete these tutorials, you will need to add the files located at the following link to your Google Drive:```
+
+[Necessary Files](https://colab.research.google.com/drive/11S4bwdynQqx1EB-AX8L87Ndh4n-jBGWb?usp=sharing)
