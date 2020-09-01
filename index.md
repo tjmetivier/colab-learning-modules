@@ -23,7 +23,6 @@ layout: default
 # Module 3 - Working with FITS Images
 
 
-----------------------------------------------------------------------------------------------------------------------------------
 
 [Google Colaboratory Notebook - Module 3](https://colab.research.google.com/drive/1UXRc1fJOQCWUHw3mywBN1w3lmP6phG_a?usp=sharing)
 
