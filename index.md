@@ -3,6 +3,12 @@ layout: default
 ---
 ```Click on the links below to access the different Google Colab learning modules!
 ```
+# Data File:
+```In order to complete these tutorials, you will need to add the files located at the following link to your Google Drive:```
+
+<a id="raw-url" href="https://raw.githubusercontent.com/tjmetivier/colab-learning-modules/master/3dhst_whitaker14_fall2020.txt">Download FILE</a>
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 # Module 1 - Basic Skills
 
@@ -38,9 +44,4 @@ layout: default
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
-# ASCII Tables, FITS files, and Catalog files:
-```In order to complete these tutorials, you will need to add the files located at the following link to your Google Drive:```
 
-[Necessary Files](https://colab.research.google.com/drive/11S4bwdynQqx1EB-AX8L87Ndh4n-jBGWb?usp=sharing)
-
-----------------------------------------------------------------------------------------------------------------------------------
